@@ -12,7 +12,15 @@ Consulte a tabela a seguir para saber o significado de cada atributo que eximos 
 |STOP|                                   A palavra é uma stopword ou faz parte de uma stop list?                                   |
 
 
+### Siglas
+| Sigla | Significado                 |
+|:-----:|:----------------------------|
+|  NLP  | Natural Language Processing |
+|  NER  | Named-Entity Recognition    |
+
 ### Porque a marcação POS é necessária em chatbots?
- - Para reduzir a complexidade de criação de um texto que não possa ser ensinado ou que seja ensinado com pouca segurança
-### Stemização e lematização 
- - 
+ - Para reduzir a complexidade de criação de um texto que não possa ser ensinado ou que seja ensinado com pouca segurança.
+
+
+### Stemização e lematização
+ - idk
