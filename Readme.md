@@ -10,3 +10,9 @@ Consulte a tabela a seguir para saber o significado de cada atributo que eximos 
 |SHAPE|                      Forma da palavra (por exemplo, letras maiúsculas, pontuação, formato de dígitos).                      |
 |ALPHA|                                             O token é um caractere alfabético?.                                             |
 |STOP|                                   A palavra é uma stopword ou faz parte de uma stop list?                                   |
+
+
+### Porque a marcação POS é necessária em chatbots?
+ - Para reduzir a complexidade de criação de um texto que não possa ser ensinado ou que seja ensinado com pouca segurança
+### Stemização e lematização 
+ - 
