@@ -28,6 +28,7 @@ for task in tasks_target:
     for tok in task.ancestors:
         if tok in tasks:
             print("Booking of {} belongs to {}".format(tok, task))
+            break
 
 
 
