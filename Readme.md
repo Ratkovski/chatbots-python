@@ -13,10 +13,13 @@ Consulte a tabela a seguir para saber o significado de cada atributo que eximos 
 
 
 ### Siglas
-| Sigla | Significado                 |
-|:-----:|:----------------------------|
-|  NLP  | Natural Language Processing |
-|  NER  | Named-Entity Recognition    |
+| Sigla | Significado                    |
+|:-----:|:-------------------------------|
+|  NLP  | Natural Language Processing    |
+|  NER  | Named-Entity Recognition       |
+|  NLU  | Natural Language Understanding |
+|  DOB  | Date of Birth                  |
+|  PDV  | Post Deployment Verification   |
 
 ### Porque a marcação POS é necessária em chatbots?
  - Para reduzir a complexidade de criação de um texto que não possa ser ensinado ou que seja ensinado com pouca segurança.
